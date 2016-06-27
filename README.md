@@ -36,8 +36,21 @@ http://verynull.com/2016/06/03/Drupal8%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/
 
 English Tutouials
 
+Structure：
+1.Symfony in Drupal 8
+https://www.sitepoint.com/symfony-drupal-8/
+2.What’s New In Drupal 8?
+http://www.dckap.com/blog/whats-new-drupal-8/
+
 Development：
 
 1.DRUPAL 8 IN 2 STEPS
 ps：本文介绍怎么开发模块，创建页面、创建表单、定义变量、创建模板、模板传递变量、创建区块。
 https://capgemini.github.io/drupal/drupal-8-in-2-steps/
+
+Site Building:
+1.Multilingual Capabilities in Drupal 8
+ps:Drupal8搭建多语言网站
+http://www.dckap.com/blog/multilingual-capabilities-drupal-8/
+
+
