@@ -37,8 +37,10 @@ http://verynull.com/2016/06/03/Drupal8%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/
 English Tutouials
 
 Structure：
+
 1.Symfony in Drupal 8
 https://www.sitepoint.com/symfony-drupal-8/
+
 2.What’s New In Drupal 8?
 http://www.dckap.com/blog/whats-new-drupal-8/
 
