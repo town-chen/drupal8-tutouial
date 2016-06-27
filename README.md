@@ -3,6 +3,11 @@ Drupal8中文资料汇总
 
 PS：本文资料有本人收集汇总，版权归原作者所有，如有侵权，请联系本人作者删除。QQ：120935692
 
+结构篇：
+
+1.了解Drupal8
+http://drupalchina.cn/node/6084
+
 建站篇：
 
 1.Drupal 8 multisite多網站安裝
