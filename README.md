@@ -50,6 +50,10 @@ Development：
 ps：本文介绍怎么开发模块，创建页面、创建表单、定义变量、创建模板、模板传递变量、创建区块。
 https://capgemini.github.io/drupal/drupal-8-in-2-steps/
 
+2.snippet code 
+
+http://www.paulbooker.co.uk/drupal-developer/tags/drupal8
+
 Site Building:
 
 1.Multilingual Capabilities in Drupal 8
