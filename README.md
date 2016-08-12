@@ -60,7 +60,8 @@ Site Building:
 ps:Drupal8搭建多语言网站
 http://www.dckap.com/blog/multilingual-capabilities-drupal-8/
 
-Theming guide
-http://sqndr.github.io/d8-theming-guide/index.html
+Theming guide:
+
+1.http://sqndr.github.io/d8-theming-guide/index.html
 
 
